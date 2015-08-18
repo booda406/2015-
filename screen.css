@@ -96,9 +96,9 @@ a {
 
 .hero {
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center bottom;
-  background-image: url("http://tiipm.nccu.edu.tw/sites/default/files/styles/slideshow/public/slide/%E9%A6%96%E9%A0%81%E8%BC%AA%E6%92%A5%E5%9C%96.png?itok=fXwEkkt-");
+  background-size: 100% 100%;
+  background-position: right bottom;
+  background-image: url("https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xat1/v/t1.0-9/11220941_962028013820268_4914703216696088810_n.jpg?oh=4ff44bf3a982699fd0dcdf19239ba136&oe=5680699F&__gda__=1450670912_78d005fcfbfbf443bd8b34880e4c5afd");
   background-attachment: fixed;
   min-height: 640px;
   width: 100%;
@@ -110,7 +110,7 @@ a {
   display: block;
   width: 360px;
   text-align: left;
-  top: 50%;
+  top: 3%;
   left: 8%;
   line-height: 40px;
   text-shadow: 1px 1px 3px rgba(102, 102, 102, 0.5);
