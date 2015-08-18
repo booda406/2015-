@@ -363,14 +363,22 @@ a {
   right: 12%;
   top: 20%;
 }
-#feeling .watch .info h2 {
+#feeling .watch .info_2 {
+  background-color: rgba(17, 17, 17, 0.8);
+  width: 380px;
+  padding: 20px;
+  position: absolute;
+  right: 12%;
+  top: 60%;
+}
+#feeling .watch .info h2, #feeling .watch .info_2 h2 {
   color: white;
   text-align: left;
   margin: 0;
   padding: 0;
   line-height: 1.4;
 }
-#feeling .watch .info a {
+#feeling .watch .info a, #feeling .watch .info_2 a {
   color: #aa1923;
   padding: 10px;
   display: block;
@@ -386,29 +394,9 @@ a {
   -khtml-border-radius: 3px;
   -webkit-border-radius: 3px;
 }
-#feeling .watch .info a:hover {
+#feeling .watch .info a:hover, #feeling .watch .info_2 a:hover {
   color: white;
   background-color: #b41923;
-}
-#feeling .watch .quote {
-  background-color: rgba(17, 17, 17, 0.8);
-  padding: 8px 8px 8px 20px;
-  position: absolute;
-  right: 0%;
-  top: 64%;
-}
-#feeling .watch .quote h3 {
-  line-height: 30px;
-  text-align: left;
-  color: white;
-}
-#feeling .watch .quote h4 {
-  color: white;
-  text-align: right;
-}
-#feeling .watch .quote span {
-  font-size: 60%;
-  margin-right: 8px;
 }
 #feeling h3 {
   line-height: 60px;
@@ -569,14 +557,6 @@ footer p {
   #feeling .watch .info a:hover {
     border: 2px solid white;
   }
-  #feeling .watch .quote {
-    right: 0%;
-    top: 80%;
-  }
-  #feeling h3 {
-    line-height: 60px;
-    text-align: center;
-  }
   #feeling .speaker .th {
     max-width: 150px;
     margin: 0 auto 20px auto;
@@ -673,15 +653,22 @@ footer p {
     margin-right: 0
     padding: 0;
   }
-  #feeling .watch .quote {
+  #feeling .watch .info_2 {
+    width: 100%;
+    margin: 0;
     right: 0%;
     top: 48%;
+    background-color: rgba(17, 17, 17, 0.9);
   }
-  #feeling .watch .quote h3 {
-    line-height: 24px;
-    text-align: left;
+  #feeling .watch .info_2 h2 {
+    font-size: 18px;
     color: white;
-    font-size: 20px;
+    text-align: left;
+    display: block;
+    width: 290px;
+    margin: 0 auto;
+    margin-right: 0
+    padding: 0;
   }
   #feeling .speaker h4 {
     font-size: 24px;
