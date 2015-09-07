@@ -100,7 +100,7 @@ a {
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: right bottom;
-  background-image: url("https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xat1/v/t1.0-9/11220941_962028013820268_4914703216696088810_n.jpg?oh=4ff44bf3a982699fd0dcdf19239ba136&oe=5680699F&__gda__=1450670912_78d005fcfbfbf443bd8b34880e4c5afd");
+  background-image: url("./image/cover.jpg");
   background-attachment: fixed;
   min-height: 640px;
   width: 100%;
@@ -200,7 +200,7 @@ a {
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
-  background-image: url("http://tiipm.nccu.edu.tw/sites/default/files/banner/ft41.png");
+  background-image: url("./image/introduction.jpg");
 }
 #about .tedx {
   background-repeat: no-repeat;
@@ -212,7 +212,7 @@ a {
   background-repeat: no-repeat;
   background-size: 90%;
   background-position: center;
-  background-image: url("http://tiipm.nccu.edu.tw/sites/default/files/banner/ammot.jpg");
+  background-image: url("./image/activity.jpg");
 }
 
 #team {
@@ -345,7 +345,7 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background-image: url("http://tiipm.nccu.edu.tw/sites/default/files/styles/slideshow/public/slide/2.png?itok=yL7htjBE");
+  background-image: url("./image/IMG_9322.jpg");
   background-attachment: fixed;
   height: 100%;
   min-height: 680px;
@@ -622,7 +622,7 @@ footer p {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right bottom;
-    background-image: url(cloud.jpg);
+    background-image: url("./image/cover_1.jpg");
     box-shadow: 1px 2px 3px rgba(82, 82, 82, 0.7);
     background-attachment: scroll !important;
     height: 480px;
