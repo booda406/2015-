@@ -1,6 +1,6 @@
 h1, h2, h3, h4, h5, h6, p, a, ul, li {
   font-family: "微軟正黑體", "Microsoft JhengHei", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  color: #545454;
+  color: #1F2020;
 }
 
 h2 {
@@ -15,7 +15,7 @@ a {
   width: 100%;
   display: block;
   height: 60px;
-  background-color: #314151;
+  background-color: #1F2020;
 }
 #navigation ul {
   max-width: 960px;
@@ -32,7 +32,7 @@ a {
 #navigation ul li a {
   width: 240px;
   height: 60px;
-  color: #C27C44;
+  color: #F8B62C;
   font-size: 16px;
   font-weight: bold;
   text-align: center;
@@ -55,7 +55,7 @@ a {
   z-index: 1;
   top: 0;
   height: 44px;
-  background-color: #314151;
+  background-color: #1F2020;
   box-shadow: 1px 1px 3px rgba(17, 17, 17, 0.8);
 }
 #fixedbar #fixednav {
@@ -74,7 +74,7 @@ a {
 #fixedbar #fixednav li a {
   width: 240px;
   height: 60px;
-  color: #C27C44;
+  color: #F8B62C;
   font-size: 16px;
   font-weight: bold;
   text-align: center;
@@ -413,7 +413,7 @@ a {
 }
 #feeling .speaker {
   padding: 12px 0;
-  background-color: #aa1923;
+  background-color: #1F2020;
 }
 #feeling .speaker h3 {
   color: white;
